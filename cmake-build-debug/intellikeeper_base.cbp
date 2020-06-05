@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="intellikeeper_base"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="intellikeeper_base">
+				<Option output="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/intellikeeper_base" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/network"/>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/node"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 intellikeeper_base"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="intellikeeper_base/fast">
+				<Option output="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/intellikeeper_base" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/network"/>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/node"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 intellikeeper_base/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="manager">
+				<Option output="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/libmanager.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/network"/>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/node"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 manager"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="manager/fast">
+				<Option output="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/libmanager.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/network"/>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/node"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 manager/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cc1100_raspi">
+				<Option output="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/libcc1100_raspi.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/network"/>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/node"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 cc1100_raspi"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cc1100_raspi/fast">
+				<Option output="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/libcc1100_raspi.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/network"/>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/node"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 cc1100_raspi/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="network_raspi">
+				<Option output="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/libnetwork_raspi.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/network"/>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/node"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 network_raspi"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="network_raspi/fast">
+				<Option output="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/libnetwork_raspi.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/network"/>
+					<Add directory="/Users/zeroisone/projects/intellikeeper-hardware/node"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 network_raspi/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zeroisone/projects/intellikeeper-hardware/intellikeeper.cpp">
+			<Option target="intellikeeper_base"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/projects/intellikeeper-hardware/network/cc1100_raspi.cpp">
+			<Option target="cc1100_raspi"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/projects/intellikeeper-hardware/network/cc1100_raspi.h">
+			<Option target="cc1100_raspi"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/projects/intellikeeper-hardware/network/protocol.cpp">
+			<Option target="network_raspi"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/projects/intellikeeper-hardware/network/protocol.h">
+			<Option target="network_raspi"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/projects/intellikeeper-hardware/node/manager.cpp">
+			<Option target="manager"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/projects/intellikeeper-hardware/node/manager.h">
+			<Option target="manager"/>
+		</Unit>
+		<Unit filename="/Users/zeroisone/projects/intellikeeper-hardware/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

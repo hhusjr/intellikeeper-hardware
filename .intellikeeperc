@@ -1,0 +1,203 @@
+
+Init CC1100...
+Partnumber:00
+Version:14
+...done
+Mode:4
+Frequency:2
+Channel:1
+My_Addr:4
+Cfg_reg:
+06 2E 80 07 57 43 3E 0E 45 04 
+01 0B 00 10 B0 71 2D 3B 73 A0 
+F8 00 07 0C 18 1D 1C C7 00 B2 
+02 26 09 B6 04 EA 0A 00 11 60 
+40 59 7F 3C 81 3F 0B 
+PaTable:
+6C 1C 06 3A 51 85 C8 C0 
+Intellikeeper on Arduino
+Sleep MCU
+RX_FIFO:130401696B978C7B099495969795959597979797 |048E|
+RSSI:-76 LQI:0E CRC:00
+TX_FIFO:05010441636B
+Ack_sent!
+Got request payload:
+69 6B 97 8C 7B 09 94 95 96 97 95 95 95 97 97 97 97 
+
+Decoded request payload:
+69 6B 00 1B EC 9E 03 02 01 00 02 02 02 00 00 00 00 
+
+Calling callback function...
+
+CLEARED Tag, current config: 
+00 
+Preparing for sending response.
+
+Response payload:
+49 4B 00 1B EC 9E 00 00 
+
+Encoded response payload:
+49 4B 97 8C 7B 09 97 97 
+
+TX_FIFO:0A0104494B978C7B099797
+ #:00
+TX_FIFO:0A0104494B978C7B099797
+ACK! RSSI:-75 LQI:0D CRC:00
+RX_FIFO:140401696B659798709495969795959696979797B7 |0C87|
+RSSI:-72 LQI:07 CRC:00
+TX_FIFO:05010441636B
+Ack_sent!
+Got request payload:
+69 6B 65 97 98 70 94 95 96 97 95 95 96 96 97 97 97 B7 
+
+Decoded request payload:
+69 6B F2 00 0F E7 03 02 01 00 02 02 01 01 00 00 00 20 
+
+Calling callback function...
+
+ADDED Tag, current config: 
+01 20 01 00 00 00 
+Preparing for sending response.
+
+Response payload:
+49 4B F2 00 0F E7 00 00 
+
+Encoded response payload:
+49 4B 65 97 98 70 97 97 
+
+TX_FIFO:0A0104494B659798709797
+ACK! RSSI:-72 LQI:08 CRC:00
+RX_FIFO:140401696B155AF7A79495969795959695979797B6 |0692|
+RSSI:-75 LQI:12 CRC:00
+TX_FIFO:05010441636B
+Ack_sent!
+Got request payload:
+69 6B 15 5A F7 A7 94 95 96 97 95 95 96 95 97 97 97 B6 
+
+Decoded request payload:
+69 6B 82 CD 60 30 03 02 01 00 02 02 01 02 00 00 00 21 
+
+Calling callback function...
+
+ADDED Tag, current config: 
+02 20 01 00 00 00 21 02 00 00 00 
+Preparing for sending response.
+
+Response payload:
+49 4B 82 CD 60 30 00 00 
+
+Encoded response payload:
+49 4B 15 5A F7 A7 97 97 
+
+TX_FIFO:0A0104494B155AF7A79797
+ACK! RSSI:-76 LQI:0A CRC:00
+RX_FIFO:140401696B10CA11899495969795959694979797B5 |0692|
+RSSI:-75 LQI:12 CRC:00
+TX_FIFO:05010441636B
+Ack_sent!
+Got request payload:
+69 6B 10 CA 11 89 94 95 96 97 95 95 96 94 97 97 97 B5 
+
+Decoded request payload:
+69 6B 87 5D 86 1E 03 02 01 00 02 02 01 03 00 00 00 22 
+
+Calling callback function...
+
+ADDED Tag, current config: 
+03 20 01 00 00 00 21 02 00 00 00 22 03 00 00 00 
+Preparing for sending response.
+
+Response payload:
+49 4B 87 5D 86 1E 00 00 
+
+Encoded response payload:
+49 4B 10 CA 11 89 97 97 
+
+TX_FIFO:0A0104494B10CA11899797
+ACK! RSSI:-75 LQI:09 CRC:00
+Sleep MCU
+RX_FIFO:130401696B20833BCE9495969795959597979797 |0F86|
+RSSI:-71 LQI:06 CRC:00
+TX_FIFO:05010441636B
+Ack_sent!
+Got request payload:
+69 6B 20 83 3B CE 94 95 96 97 95 95 95 97 97 97 97 
+
+Decoded request payload:
+69 6B B7 14 AC 59 03 02 01 00 02 02 02 00 00 00 00 
+
+Calling callback function...
+
+CLEARED Tag, current config: 
+00 
+Preparing for sending response.
+
+Response payload:
+49 4B B7 14 AC 59 00 00 
+
+Encoded response payload:
+49 4B 20 83 3B CE 97 97 
+
+TX_FIFO:0A0104494B20833BCE9797
+ACK! RSSI:-71 LQI:0E CRC:00
+RX_FIFO:140401696B20833BCE9495969795959696979797B7 |1087|
+RSSI:-70 LQI:07 CRC:00
+TX_FIFO:05010441636B
+Ack_sent!
+Got request payload:
+69 6B 20 83 3B CE 94 95 96 97 95 95 96 96 97 97 97 B7 
+
+Decoded request payload:
+69 6B B7 14 AC 59 03 02 01 00 02 02 01 01 00 00 00 20 
+
+!!!DUPLICATE REQUEST!!!
+
+RX_FIFO:140401696B98F94CE09495969795959695979797B6 |0F8A|
+RSSI:-71 LQI:0A CRC:00
+TX_FIFO:05010441636B
+Ack_sent!
+Got request payload:
+69 6B 98 F9 4C E0 94 95 96 97 95 95 96 95 97 97 97 B6 
+
+Decoded request payload:
+69 6B 0F 6E DB 77 03 02 01 00 02 02 01 02 00 00 00 21 
+
+Calling callback function...
+
+ADDED Tag, current config: 
+01 21 02 00 00 00 
+Preparing for sending response.
+
+Response payload:
+49 4B 0F 6E DB 77 00 00 
+
+Encoded response payload:
+49 4B 98 F9 4C E0 97 97 
+
+TX_FIFO:0A0104494B98F94CE09797
+ACK! RSSI:-71 LQI:0D CRC:00
+RX_FIFO:140401696B1D2377599495969795959694979797B5 |0F8B|
+RSSI:-71 LQI:0B CRC:00
+TX_FIFO:05010441636B
+Ack_sent!
+Got request payload:
+69 6B 1D 23 77 59 94 95 96 97 95 95 96 94 97 97 97 B5 
+
+Decoded request payload:
+69 6B 8A B4 E0 CE 03 02 01 00 02 02 01 03 00 00 00 22 
+
+Calling callback function...
+
+ADDED Tag, current config: 
+02 21 02 00 00 00 22 03 00 00 00 
+Preparing for sending response.
+
+Response payload:
+49 4B 8A B4 E0 CE 00 00 
+
+Encoded response payload:
+49 4B 1D 23 77 59 97 97 
+
+TX_FIFO:0A0104494B1D2377599797
+ACK! RSSI:-71 LQI:0A CRC:00
+Sleep MCU

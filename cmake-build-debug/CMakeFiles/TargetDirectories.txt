@@ -1,0 +1,6 @@
+/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/CMakeFiles/intellikeeper_base.dir
+/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/CMakeFiles/manager.dir
+/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/CMakeFiles/cc1100_raspi.dir
+/Users/zeroisone/projects/intellikeeper-hardware/cmake-build-debug/CMakeFiles/network_raspi.dir
